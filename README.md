@@ -28,12 +28,11 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 ### Templates
 
-[NET Boxed](https://github.com/Dotnet-Boxed/Templates)
+* [NET Boxed](https://github.com/Dotnet-Boxed/Templates)
+* [Caju](https://github.com/ivanpaulovich/dotnet-new-caju) Service Template to help you build evolvable and maintainable applications. It follows the Clean Architecture Principles and built on Domain-Driven Design. This tool increases productivity on developing your next microservices.
 
 ### Examples
 
-[Library](https://github.com/lamondlu/Library) example microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
-[Manga](https://github.com/ivanpaulovich/clean-architecture-manga) Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built with small components that are developed and tested in isolation. See Caju for template.
-[Caju](https://github.com/ivanpaulovich/dotnet-new-caju) Service Template to help you build evolvable and maintainable applications. It follows the Clean Architecture Principles and built on Domain-Driven Design. This tool increases productivity on developing your next microservices.
-
-[eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+* [Library](https://github.com/lamondlu/Library) example microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
+* [Manga](https://github.com/ivanpaulovich/clean-architecture-manga) Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built with small components that are developed and tested in isolation. See Caju for template.
+* [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
