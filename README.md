@@ -10,9 +10,9 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Application Frameworks](#applicationframeworks)
 * [Service Discovery](#servicediscovery)
 * [Distributed Transactions](#distributedtransactions)
-* [Fault Tolerance]#faulttolerance
-* [Health Monitoring]#healthmonitoring
-* [Logging]#logging
+* [Fault Tolerance](#faulttolerance)
+* [Health Monitoring](#healthmonitoring)
+* [Logging](#logging)
 
 * [Books](#books)
 
@@ -33,7 +33,7 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 * [NET Boxed](https://github.com/Dotnet-Boxed/Templates)
 * [Caju](https://github.com/ivanpaulovich/dotnet-new-caju) Service Template to help you build evolvable and maintainable applications. It follows the Clean Architecture Principles and built on Domain-Driven Design. This tool increases productivity on developing your next microservices.
-* [Clean Architecture](https://github.com/ardalis/CleanArchitecture)
+* [Clean Architecture](https://github.com/ardalis/CleanArchitecture) A solution template that can be used to build Domain-Driven Design (DDD)-based or simply well-factored, SOLID applications using ASP.NET Core.
 
 ### Examples
 
