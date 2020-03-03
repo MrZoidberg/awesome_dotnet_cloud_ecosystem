@@ -6,9 +6,16 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 * [Code Architecture](#codearchitecture)
 * [Code Architecture Examples](#codearchitectureexamples)
-* [Starter kits](#starterkits)
+* [Starter Kits](#starterkits)
 * [Application Frameworks](#applicationframeworks)
-* [Service discovery](#servicediscovery)
-* [Distributed transactions](#distributedtransactions)
+* [Service Discovery](#servicediscovery)
+* [Distributed Transactions](#distributedtransactions)
 
 
+## Starter Kits
+
+### Templates
+
+### Examples
+
+[Library](https://github.com/lamondlu/Library) example microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
