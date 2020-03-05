@@ -14,6 +14,8 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Health Monitoring](#healthmonitoring)
 * [Logging](#logging)
 
+* [IDE and tools](#ideandtools)
+
 * [Books](#books)
 
 ## Code Architecture
@@ -40,3 +42,7 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Library](https://github.com/lamondlu/Library) example microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
 * [Manga](https://github.com/ivanpaulovich/clean-architecture-manga) Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built with small components that are developed and tested in isolation. See Caju for template.
 * [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+
+### IDE and Tools
+
+* [Разработка с Docker на Windows Subsystem for Linux (WSL)](https://habr.com/ru/post/474346/)
