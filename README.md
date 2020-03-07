@@ -13,6 +13,7 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Fault Tolerance](#faulttolerance)
 * [Health Monitoring](#healthmonitoring)
 * [Logging](#logging)
+* [Tracing](#tracing)
 
 * [IDE and tools](#ideandtools)
 
@@ -42,6 +43,13 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Library](https://github.com/lamondlu/Library) example microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
 * [Manga](https://github.com/ivanpaulovich/clean-architecture-manga) Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built with small components that are developed and tested in isolation. See Caju for template.
 * [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+
+## Logging
+
+## Tracing
+
+* [Tracing serverless .NET applications with AWS X-Ray](https://medium.com/@bacheric/tracing-serverless-net-applications-with-aws-x-ray-394b5e9f0d78)
+* [aws-xray-dotnet-webapp](https://github.com/aws-samples/aws-xray-dotnet-webapp): An ASP.NET Web API application that has been instrumented for AWS X-Ray
 
 ### IDE and Tools
 
