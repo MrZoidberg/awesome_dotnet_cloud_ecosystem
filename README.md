@@ -52,13 +52,17 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 * [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) Framework for quickly creating enterprise microservices on .NET Core. See [https://habr.com/ru/company/raiffeisenbank/blog/494830/](https://habr.com/ru/company/raiffeisenbank/blog/494830/)
 
-**CQRS+ES**
+### CQRS+ES
 
 * [Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow)
 * [Opinionated eventsourcing library](https://github.com/ProximoSrl/NStore)
 * [A cqrs and event sourcing framework for dotnet core using akka.net](https://github.com/Lutando/Akkatecture)
 
-**LINQ**
+### State Machine
+
+* [A simple library for creating state machines in C# code](https://github.com/dotnet-state-machine/stateless)
+
+### LINQ
 
 * [A toolset for use the specification pattern in LINQ queries](https://github.com/navozenko/LinqSpecs)
 
