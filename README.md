@@ -89,6 +89,8 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Tracing serverless .NET applications with AWS X-Ray](https://medium.com/@bacheric/tracing-serverless-net-applications-with-aws-x-ray-394b5e9f0d78)
 * [aws-xray-dotnet-webapp](https://github.com/aws-samples/aws-xray-dotnet-webapp): An ASP.NET Web API application that has been instrumented for AWS X-Ray
 
+* [C# client (tracer) for Jaeger https://jaegertracing.io/](https://github.com/jaegertracing/jaeger-client-csharp)
+
 ## Security
 
 * [A cross-platform .NET Library for HashiCorp's Vault](https://github.com/VaultSharp/VaultSharp)
