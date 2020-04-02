@@ -7,7 +7,7 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [Code Architecture](#codearchitecture)
 * [Code Architecture Examples](#codearchitectureexamples)
 * [Starter Kits](#starterkits)
-* [Application Frameworks](#applicationframeworks)
+* [Application Frameworks](#ApplicationFrameworks)
 * [RPC](#rpc)
 * [Service Discovery](#servicediscovery)
 * [Distributed Transactions](#distributedtransactions)
@@ -61,6 +61,10 @@ A collection of articles, frameworks, libraries, principles for building modern,
 ### State Machine
 
 * [A simple library for creating state machines in C# code](https://github.com/dotnet-state-machine/stateless)
+
+### Feature toggles
+
+* [Unleash FeatureToggle Client for .Net https://github.com/Unleash/unleash](https://github.com/stiano/unleash-client-dotnet)
 
 ### LINQ
 
