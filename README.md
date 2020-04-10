@@ -22,6 +22,7 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [CI/CD](#ciandcd)
 
 * [Books](#books)
+* [Architecture video](#video)
 
 ## Code Architecture
 
@@ -104,3 +105,8 @@ A collection of articles, frameworks, libraries, principles for building modern,
 ## CI and CD
 
 * [Generate documentation from Terraform modules in various output formats](https://github.com/segmentio/terraform-docs)
+
+## Video
+
+* [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
+* [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?reload=9&v=txlSrGVCK18)
