@@ -53,6 +53,10 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 * [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) Framework for quickly creating enterprise microservices on .NET Core. See [https://habr.com/ru/company/raiffeisenbank/blog/494830/](https://habr.com/ru/company/raiffeisenbank/blog/494830/)
 
+### REST APIs
+
+* [Handling conditional requests in ASP.NET Core MVC](https://www.tpeczek.com/2017/11/handling-conditional-requests-in-aspnet.html)
+
 ### CQRS+ES
 
 * [Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow)
