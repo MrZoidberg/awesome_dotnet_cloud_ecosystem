@@ -22,6 +22,7 @@ A collection of articles, frameworks, libraries, principles for building modern,
 * [CI/CD](#ciandcd)
 
 * [Books](#books)
+* [Cources](#cources)
 * [Architecture video](#video)
 
 ## Code Architecture
@@ -111,6 +112,10 @@ A collection of articles, frameworks, libraries, principles for building modern,
 ## CI and CD
 
 * [Generate documentation from Terraform modules in various output formats](https://github.com/segmentio/terraform-docs)
+
+# Cources
+
+* [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards](https://github.com/donnemartin/system-design-primer)
 
 ## Video
 
