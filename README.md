@@ -28,6 +28,8 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 ### DDD and CQRS
 
+[The Bounded Context Canvas is a collaborative tool for designing and documenting the design of a single bounded context.](https://github.com/ddd-crew/bounded-context-canvas)
+
 **Microsoft guidelines:**
 
 [Tackle Business Complexity in a Microservice with DDD and CQRS Patterns](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/)
