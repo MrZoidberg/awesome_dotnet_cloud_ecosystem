@@ -1,6 +1,6 @@
-# Awesome .NET Core Cloud Microservices
+# Awesome Microservices
 
-A collection of articles, frameworks, libraries, principles for building modern, clean, fault-tolerant, distributed microservice architecture on top of .NET Core. 
+A collection of articles, frameworks, libraries, principles for building modern, clean, fault-tolerant, distributed microservice architecture on top of AWS and .NET Core. 
 
 ## Contents
 
