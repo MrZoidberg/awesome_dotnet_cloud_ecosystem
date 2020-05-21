@@ -103,6 +103,10 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 * [A cross-platform .NET Library for HashiCorp's Vault](https://github.com/VaultSharp/VaultSharp)
 
+## Testing
+
+* [A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.](https://github.com/HofmeisterAn/dotnet-testcontainers)
+
 ## IDE and Tools
 
 * [Разработка с Docker на Windows Subsystem for Linux (WSL)](https://habr.com/ru/post/474346/)
