@@ -82,6 +82,10 @@ A collection of articles, frameworks, libraries, principles for building modern,
 
 * [OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby](https://github.com/Azure/autorest)
 
+## Distributed Transactions {#distributedtransactions}
+
+* [Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
+
 ## Big Data
 
 * [.NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.](https://github.com/dotnet/spark)
